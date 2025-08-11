@@ -12,7 +12,7 @@
 
 I am a **Data Analyst**, **BI Developer**, and **Data Engineer** with over 5 years of experience creating enterprise-level Business Intelligence and data analytics solutions. My expertise lies in transforming complex business data into clear, actionable insights through data analysis and interactive dashboards.
 
-Currently, I am a **Senior BI Developer at Abbott**, where I build and manage project portfolio management apps for leadership, focusing on financial planning, resource allocation, and performance tracking. My work involves designing robust data models (Star and Snowflake schemas), developing solutions with **Power BI, SQL, and Microsoft Fabric**, and automating data workflows from sources like SharePoint and enterprise data warehouses.
+Currently, I am a **Senior Data Analyst at Abbott Laboratories**, where I build and manage project portfolio management apps for leadership, focusing on financial planning, resource allocation, and performance tracking. My work involves designing robust data models (Star and Snowflake schemas), developing solutions with **Power BI, SQL, and Microsoft Fabric**, and automating data workflows from sources like SharePoint and enterprise data warehouses.
 
 I am passionate about data management, data analysis and stakeholder collaboration. I'm now channeling that passion into the world of Artificial Intelligence and am actively learning and applying **AI Engineering** concepts to build even more intelligent data solutions.
 
@@ -27,8 +27,8 @@ I am passionate about data management, data analysis and stakeholder collaborati
 
 | BI & Visualization    | Languages     | Cloud, ETL & Data Modeling                            | Other                    |
 | --------------------- | ------------- | ----------------------------------------------------- | ------------------------ |
-| Power BI (Service, Desktop) | SQL           | Microsoft Fabric (Pipelines, Dataflows Gen2, Warehouse) | [Power BI Workspace Mgmt |
-| [Tableau                | DAX, M        | Power Automate                                  | Data Governance         |
+| Power BI (Service, Desktop) | SQL           | Microsoft Fabric (Pipelines, Dataflows Gen2, Warehouse) | Power BI Workspace Mgmt |
+| Tableau                | DAX, M        | Power Automate                                  | Data Governance         |
 | Advanced Excel         | Python        | Star & Snowflake Schemas                    | Version Control        |
 
 ### 🎓 Education & Certifications
